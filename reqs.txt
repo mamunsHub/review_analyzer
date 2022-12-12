@@ -1,0 +1,8 @@
+simplejson==3.18.0
+pandas==1.5.2
+numpy==1.22.3
+nltk==3.7
+textblob==0.17.1
+matplotlib==3.6.2
+seaborn==0.12.1
+scipy==1.9.3
